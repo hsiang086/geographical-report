@@ -1,4 +1,3 @@
-# geographical-report
 # 之山岩
 <br>
 
